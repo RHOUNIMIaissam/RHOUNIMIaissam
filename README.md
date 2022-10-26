@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Rhounimi Aissam
 - 👀 I’m interested in software engineering 💻🚀
 - 🌱 I’m currently learning microservices architecture
-- 💞️ I’m looking to collaborate on innovative projects
+- 💞️ I’m looking to collaborate on Microservices projects
 - 📫 How to reach me [Aissam Rhounimi](https://ma.linkedin.com/in/aissam-rhounimi-79a806187)
-- 👷 I’m looking to collaborate on: Microservices projects
+- 👷 Graduated from EHTP Engineering School
 
 
 <!---
